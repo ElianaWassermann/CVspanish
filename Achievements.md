@@ -5,17 +5,17 @@
 
 ## Enero 2018-Abril 2020 **Posdoctorado**
 [<img src="https://user-images.githubusercontent.com/57723790/68870719-14cf7980-06da-11ea-813f-24efc025dc4d.png" alt="drawing" width="180"/>](http://www.darwin.edu.ar/)
-[Consejo Nacional de Investigaciones Cintñificas y Tecnológicas (CONICET)](http://www.darwin.edu.ar) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>	
+[Consejo Nacional de Investigaciones Científicas y Tecnológicas (CONICET)](http://www.darwin.edu.ar) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>	
 
 
 ## Abril 2015-Marzo 2017 **Beca de finalización de doctorado**
 [<img src="https://bahiablanca.conicet.gov.ar/boletin/images/logo_CONICET.png" alt="drawing" width="150"/>](https://www.conicet.gov.ar)
-[Consejo Nacional de Investigaciones Cintñificas y Tecnológicas (CONICET)](https://www.conicet.gov.ar) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
+[Consejo Nacional de Investigaciones Científicas y Tecnológicas (CONICET)](https://www.conicet.gov.ar) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 
 ## Enero 2012-Marzo 2015 **Beca inicial de doctorado**
 [<img src="http://www.biblioteca.mincyt.gob.ar/images/logos/00_Logo_Ministerio_ECCyT-02.png" alt="drawing" width="200"/>](https://www.argentina.gob.ar/ciencia)
-[Agencia Nacional de Promoción Scientífica y Tecnológica (MINCyT)](https://www.argentina.gob.ar/ciencia) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
+[Agencia Nacional de Promoción Científica y Tecnológica (MINCyT)](https://www.argentina.gob.ar/ciencia) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 
 
 
