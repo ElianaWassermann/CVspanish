@@ -21,7 +21,7 @@ Cátedra de Fitopatología, Facultad de Agricultura, Universidad de Buenos Aires
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/carreras/agronomia) 
 
 [Facultad de agronomía, Universidad de Buenos Aires, Argentina](https://www.agro.uba.ar/carreras/agronomia) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
->Dissertation title: "Caracterización metabólica de las comunidades bacterianas de suelos bajo diferentes usos del noroeste argentino" [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3854563/2011wassermanneliana.pdf) 
+>Título de tesis: "Caracterización metabólica de las comunidades bacterianas de suelos bajo diferentes usos del noroeste argentino" [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3854563/2011wassermanneliana.pdf) 
 
 
 ## **Cursos de graduados aprovados**
