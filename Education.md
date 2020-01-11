@@ -56,7 +56,7 @@ Cátedra de Fitopatología, Facultad de Agricultura, Universidad de Buenos Aires
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-La Universidad de Buenos Aires (UBA) es considerada la mejor universidad de Argentina y la Comisión Nacional de Investigaciones Ciéntificas y Técnicas (CONICET) el el segundo mejor instituto de investigación de América Latina según [Scimago <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://www.scimagoir.com/rankings.php?country=Latin%20America) 
+La Universidad de Buenos Aires (UBA) es considerada la mejor universidad de Argentina y la Comisión Nacional de Investigaciones Ciéntificas y Técnicas (CONICET) es el segundo mejor instituto de investigación de América Latina según [Scimago <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://www.scimagoir.com/rankings.php?country=Latin%20America) 
 
 
 
