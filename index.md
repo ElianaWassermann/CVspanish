@@ -22,9 +22,9 @@
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Logros <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Achievements)
 
-Reciví una beca doctoral del Consejo Nacional de Investigaciones Científicas y Tecnológicas de Argentina (CONICET) para desarrollar mis investigaciones posdoctorales
+Reciví una beca del Consejo Nacional de Investigaciones Científicas y Tecnológicas de Argentina (CONICET) para desarrollar mis investigaciones posdoctorales
 
-También me otorgaron dos becas para completar mi doctorato, una del CONICTE y otra de la Agencia Nacional de promoción Ciencitífica y Tecnológica.
+También me otorgaron dos becas para completar mi doctorado, una del CONICET y otra de la Agencia Nacional de promoción Ciencitífica y Tecnológica.
 
  
 
@@ -32,11 +32,11 @@ También me otorgaron dos becas para completar mi doctorato, una del CONICTE y o
 
 **01-2018 to 03-2020, Becaria Posdoctoral** CONICET
 
-Trabajo analizando secuencias de ADN vegetales. Realizo análisis de datos en software R y utilizo varias herramientas basadas en el lenguaje Python. Asimismo, he purificado ADN vegtal, amplificado y analizado secuencias.
+Trabajo analizando secuencias de ADN vegetales. Realizo análisis de datos en software R y utilizo varias herramientas basadas en el lenguaje Python. Asimismo, he purificado ADN vegtal, amplificado y analizado las secuencias obtenidas.
 
 **01-2012 to 04-2017, Estudiante de doctorado** Universidad de Buenos Aires
 
-Realicé el análisis de la diversidad molecular y de agresividad del agente causal de una de las enfermedades más importantes del cultivo de tomate. Para lograr esto utilicé herramientas estadísticas como Arlequin y R.
+Realicé el análisis de la diversidad molecular y de agresividad del agente causal de una de las enfermedades más importantes del cultivo de tomate. Para lograr esto utilicé herramientas estadísticas como Arlequin y R team core.
 
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009439-e5b44480-0933-11ea-8c7a-a59c860072fb.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Publicaciones <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/Publications)
@@ -45,7 +45,7 @@ Realicé el análisis de la diversidad molecular y de agresividad del agente cau
 
 <p align="center"> Número y tipo de publicaciones </p>
  
-<p align="center"> Barras azúles: publicaciones como primer autora; barras narnjas: publicaciones como colaboradora</p>
+<p align="center"> Barras azúles: publicaciones como primer autora; barras naranjas: publicaciones como colaboradora</p>
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/> Experiencia en educación <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/TeachingExperience)
 
@@ -58,6 +58,6 @@ Me desarrollo en las áreas de Genética Vegetal, Microbiología y Derechos Huma
 
 Tengo amplia experiencia en diseño de experimentos, bioinformática y análisis estadísticos. Tengo entrenamiento en los paquetes de R team core, GraphPad Prism para diseño de análisis estadístico y de figuras, Arlequin, Microsoft Office y Open Office, y en la plataforma educativa Moodle.
 
-<img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> Tengo un nivel nativo en castellano e inglés y conocimientos básicos de italiano y francés<img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
+<img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> Tengo un nivel nativo en castellano e inglés y conocimientos básicos de italiano y francés <img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Referencias <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVenglish/References)
