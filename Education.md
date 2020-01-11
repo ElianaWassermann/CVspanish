@@ -7,7 +7,7 @@
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/> <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](http://epg.agro.uba.ar/)
 
 Cátedra de Fitopatología, Facultad de Agricultura, Universidad de Buenos Aires, Argentina	
->Título de tesis: “Estructura poblacional y caracterización genética de los factores de patogenicidad de cepas de *Clavibacter michiganensis* SUBSP *michiganensis*, presentes en el Cinturón Verde de Buenos Aires - La Plata“ [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](http://ri.agro.uba.ar/files/download/tesis/doctorado/2017wassermanneliana.pdf) 
+>Título de tesis: “Estructura poblacional y caracterización genética de los factores de patogenicidad de cepas de *Clavibacter michiganensis* Subsp *michiganensis*, presentes en el Cinturón Verde de Buenos Aires - La Plata“ [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](http://ri.agro.uba.ar/files/download/tesis/doctorado/2017wassermanneliana.pdf) 
 
 [Tesis resumida (inglés) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
 	
