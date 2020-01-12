@@ -7,12 +7,14 @@
 Trabajo en el análisis filogeográfico de *Larrea divaricata* Cav. (Zygophyllaceae), una especie vegetal representativa de la Diagonal Árida Argentina. Parte de mis tareas son la purificación del ADN, amplificación y análisis de las secuencias. 
 
 
+-------------------------------------------------------------------------------------------------------------------------------
 [<img src="https://user-images.githubusercontent.com/57723790/68878076-df308d80-06e5-11ea-9c43-541764df019c.png" alt="drawing" width="80"/>](https://agro.uba.ar/departamentos/)
 
 ## Estudiante doctoral, 	2012-2017
 ### Departamento de producción vegetal, Universidad de Buenos Aires. [link](https://agro.uba.ar/departamentos/produccion_vegetal)
 
 Analicé la diversidad molecular y de agresividad de *Clavibacter michiganensis* subsp. *michiganensis*, agente causal del cancro y marchitez bacteriana del tomate, una de las enfermedades mas importantes del tomate.
+
 
 ## Asistente de investigación,	2008-2011
 
