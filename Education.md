@@ -2,7 +2,7 @@
 
 # <img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30"/> Educación
 
-## Enero 2012- Marzo 2017, **Dra. en ciencias agrícolas**
+## Enero 2012- Marzo 2017, **Dra. en Ciencias Agrícolas**
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/> <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](http://epg.agro.uba.ar/)
 
@@ -11,7 +11,7 @@ Cátedra de Fitopatología, Facultad de Agricultura, Universidad de Buenos Aires
 
 [Tesis resumida (inglés) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
 	
-## Junio 2013-Diciembre 2015, **Especialista en educación universitaria**
+## Junio 2013-Diciembre 2015, **Especialista en Educación Universitaria**
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/> ](https://agro.uba.ar/carrera-docente) 
 
 [Facultad de Agronomía, Universidad de Buenos Aires, Argentina <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/carrera-docente) 
@@ -26,13 +26,13 @@ Cátedra de Fitopatología, Facultad de Agricultura, Universidad de Buenos Aires
 
 ## **Cursos de graduados aprovados**
 
-[<img src="https://user-images.githubusercontent.com/57723790/69008288-90723600-0927-11ea-98e4-6543c6d2c59e.gif" alt="drawing" width="100"/> Universidad nacional del COMAHUE <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://www.uncoma.edu.ar/) 
+[<img src="https://user-images.githubusercontent.com/57723790/69008288-90723600-0927-11ea-98e4-6543c6d2c59e.gif" alt="drawing" width="100"/> Universidad Nacional del COMAHUE <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://www.uncoma.edu.ar/) 
 
 ●	Herramientas de análisis filogeográfico, 40 hs, Junio 2019
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997333-f907d700-0883-11ea-9e10-605f7a1aa48e.png" alt="drawing" width="180"/> Facultad de Agronomía, Universidad de Buenos Aires <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](http://epg.agro.uba.ar/) 
 
-●	Metodología Estadística (modulos II, IV and V), 96 hs, Junio 2013, Septiembre 2014, Marzo 2016
+●	Metodología Estadística (modulos II, IV y V), 96 hs, Junio 2013, Septiembre 2014, Marzo 2016
 
 ●	Introducción a la geoestadística, 48 hs, Octubre 2014
 
