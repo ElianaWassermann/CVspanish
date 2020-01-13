@@ -22,7 +22,7 @@
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Logros <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVspanish/Achievements)
 
-Reciví una beca del Consejo Nacional de Investigaciones Científicas y Tecnológicas de Argentina (CONICET) para desarrollar mis investigaciones posdoctorales
+Recibí una beca del Consejo Nacional de Investigaciones Científicas y Tecnológicas de Argentina (CONICET) para desarrollar mis investigaciones posdoctorales
 
 También me otorgaron dos becas para completar mi doctorado, una del CONICET y otra de la Agencia Nacional de promoción Ciencitífica y Tecnológica.
 
