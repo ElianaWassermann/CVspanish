@@ -1,5 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="30"/> Technical Skills
-
+# <img src="https://user-images.githubusercontent.com/57723790/69000607-199a5600-08b1-11ea-85d5-6a10820e101e.jpg" alt="drawing" width="30"/> Habilidades técnicas
 ●	Diseño experimental
 
 ●	Análisis estadístico
