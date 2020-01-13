@@ -44,8 +44,6 @@ Sorlino D.; Durand P.; Logegaray V.; Gambino S.; Borsak J.; **Wassermann E.**; G
 
 Tosi, M, **Wassermann, E**, Montecchia, MS, Soria, MA, Carbone Carneiro, MA, Correa OS. "Soil microbial communities from Argentinian Yungas as affected by agricultural activity". 2010. XLVI Reunión Anual de la Sociedad Argentina de Investigación en Bioquímica y Biología Molecular. Sociedad Argentina de Investigación en Bioquímica y Biología Molecular
 
-<img src="https://user-images.githubusercontent.com/57723790/69349698-f7a92680-0c56-11ea-9a12-c78d2bfd88a3.png" alt="drawing" width="500" aligment="center"/>
-
 <p align="center"><img src="https://user-images.githubusercontent.com/57723790/69349698-f7a92680-0c56-11ea-9a12-c78d2bfd88a3.png" alt="drawing" width="500"/></P>
 
 <p align="center"> Número y tipo de publicaciones </p>
