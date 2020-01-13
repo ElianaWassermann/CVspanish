@@ -13,7 +13,7 @@ Trabajo en el análisis filogeográfico de *Larrea divaricata* Cav. (Zygophyllac
 ## Estudiante doctoral, 	2012-2017
 ### Departamento de Producción Vegetal, Universidad de Buenos Aires. [link](https://agro.uba.ar/departamentos/produccion_vegetal)
 
-Analicé la diversidad molecular y de agresividad de *Clavibacter michiganensis* subsp. *michiganensis*, agente causal del cancro y marchitez bacteriana del tomate, una de las enfermedades mas importantes del tomate.
+Analicé la diversidad molecular y de agresividad de *Clavibacter michiganensis* subsp. *michiganensis*, agente causal del cancro y marchitez bacteriana del tomate, una de las enfermedades más importantes del tomate.
 
 
 ## Asistente de investigación,	2008-2011
