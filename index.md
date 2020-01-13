@@ -32,7 +32,7 @@ También me otorgaron dos becas para completar mi doctorado, una del CONICET y o
 
 **01-2018 to 03-2020, Becaria Posdoctoral** CONICET
 
-Trabajo analizando secuencias de ADN vegetales. Realizo análisis de datos en software R y utilizo varias herramientas basadas en el lenguaje Python. Asimismo, he purificado ADN vegtal, amplificado y analizado las secuencias obtenidas.
+Trabajo analizando secuencias de ADN vegetal. Realizo análisis de datos en software R y utilizo varias herramientas basadas en el lenguaje Python. Asimismo, he purificado ADN, amplificado y analizado las secuencias obtenidas.
 
 **01-2012 to 04-2017, Estudiante de doctorado** Universidad de Buenos Aires
 
