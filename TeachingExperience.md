@@ -38,10 +38,10 @@ Cursos:
 #### Co-direccion de Valeria Soledad Garaventta.
 Título de la disertación: Evaluación de la agresividad de cepas de *Clavibacter michiganensis* subsp. *michiganensis*, agente del cancro bacteriano del tomate, procedentes del cinturón hortícola de Buenos Aires-La Plata [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3854840/2017garaventavaleriasoledad.pdf)
 
-#### Supervicé cuatro estudiantes de grado en investigación de patogenicidad bacteriana.	
+#### Supervicé la participación de cuatro estudiantes de grado en investigaciones sobre patogenicidad bacteriana.	
 
 
-### Administrative Activity
+### Antecedentes en gestión universitaria
 
 Coordinadora de la Comisión de Derechos Humanos (Desde 2012)
 
