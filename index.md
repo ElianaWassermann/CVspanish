@@ -16,13 +16,13 @@
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009543-dbdf1100-0934-11ea-8426-7612a55e7be3.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Educación <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVspanish/Education)
 
-**01-2012 to 04-2017, Dra. en Cinecias Agrícolas** Universidad de Buenos Aires
+**01-2012 to 04-2017, Dra. en Ciencias Agrícolas** Universidad de Buenos Aires
 
 **06-2006 to 11-2011, Ingeniera Agrónoma/ Master en Agricultura** Universidad de Buenos Aires
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009513-91f62b00-0934-11ea-8871-fd98576062f2.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Logros <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVspanish/Achievements)
 
-Recibí una beca del Consejo Nacional de Investigaciones Científicas y Tecnológicas de Argentina (CONICET) para desarrollar mis investigaciones posdoctorales
+Recibí una beca del Consejo Nacional de Investigaciones Científicas y Tecnológicas de Argentina (CONICET) para desarrollar mis investigaciones postdoctorales
 
 También me otorgaron dos becas para completar mi doctorado, una del CONICET y otra de la Agencia Nacional de Promoción Ciencitífica y Tecnológica.
 
@@ -58,6 +58,6 @@ Me desarrollo en las áreas de Genética Vegetal, Microbiología y Derechos Huma
 
 Tengo amplia experiencia en diseño de experimentos, bioinformática y análisis estadísticos. También, utilizo los paquetes de R team core, GraphPad Prism para diseño de análisis estadístico y de figuras, Arlequin, Microsoft Office y Open Office, y en la plataforma educativa Moodle.
 
-<img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> Tengo un nivel nativo en castellano e inglés y conocimientos básicos de italiano y francés <img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
+<img src="https://user-images.githubusercontent.com/57723790/69011413-dee3fc80-0948-11ea-8f6a-2d8969dfbfa3.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011414-df7c9300-0948-11ea-9333-3c460ab9bcb6.jpg" alt="drawing" width="20"/> Tengo un nivel nativo en castellano e inglés y conocimientos básicos de francés e italiano <img src="https://user-images.githubusercontent.com/57723790/69011415-df7c9300-0948-11ea-8e1a-de13653d524d.png" alt="drawing" width="20"/>   <img src="https://user-images.githubusercontent.com/57723790/69011412-dee3fc80-0948-11ea-9d82-9465138d3f3d.jpg" alt="drawing" width="20"/>
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009564-19439e80-0935-11ea-8dc3-2d57865e2b54.jpg" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Referencias <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVspanish/References)
