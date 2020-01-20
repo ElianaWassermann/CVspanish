@@ -62,7 +62,7 @@ Tengo amplia experiencia en diseño de experimentos, bioinformática y análisis
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/72681988-a6c37c00-3aa7-11ea-96b7-caa81ea82cac.png" alt="drawing" width="30" style="display: inline-block; margin: 2"/> Voluntariado <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVspanish/Voluntariado)
 
-**03-2010 al 12-2015, Docente de educación media** Ñanderoga, nuestra casa 
+**03-2010 al 12-2012, Docente de educación media** Ñanderoga, nuestra casa 
 
 Docente de Biología, Física y Química en secundario de adultos (personas mayores de 16 años).
 
