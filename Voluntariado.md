@@ -6,7 +6,7 @@
 
 [<img src="https://user-images.githubusercontent.com/57723790/72681752-64993b00-3aa5-11ea-96c2-3899b33caa24.png" alt="drawing" width="30"/>](http://nanderoga-nuestracasa.blogspot.com/)[<img src="https://user-images.githubusercontent.com/57723790/72681753-64993b00-3aa5-11ea-9132-8e2fe574c108.png" alt="drawing" width="40"/>](https://www.youtube.com/channel/UCMs2ECHrrP2K9iNk_STsRAQ?feature=embeds_subscribe_title)
 
-## Docente de educación media, Marzo 2010 - Diciembre 2015
+## Docente de educación media, Marzo 2010 - Diciembre 2012
 
 Docente de Biología, Física y Química en secundario de adultos (personas mayores de 16 años).
 
