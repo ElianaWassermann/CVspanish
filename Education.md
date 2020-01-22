@@ -9,6 +9,9 @@
 Cátedra de Fitopatología, Facultad de Agricultura, Universidad de Buenos Aires, Argentina	
 >Título de tesis: “Estructura poblacional y caracterización genética de los factores de patogenicidad de cepas de *Clavibacter michiganensis* Subsp *michiganensis*, presentes en el Cinturón Verde de Buenos Aires - La Plata“ [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](http://ri.agro.uba.ar/files/download/tesis/doctorado/2017wassermanneliana.pdf) 
 
+Diploma [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVspanish/blob/master/TituloDoctora.pdf)
+
+
 [Tesis resumida (inglés) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3854549/Eliana.Wassermann.Doc.Thesis.Summary.pdf)
 	
 ## Junio 2013-Diciembre 2015, **Especialista en Educación Universitaria**
@@ -16,12 +19,17 @@ Cátedra de Fitopatología, Facultad de Agricultura, Universidad de Buenos Aires
 
 [Facultad de Agronomía, Universidad de Buenos Aires, Argentina <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://agro.uba.ar/carrera-docente) 
 
+Diploma [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVspanish/blob/master/TituloDocente.pdf)
+
+
 ## Julio 2006-Noviembre 2011, **Ingeniera/ master en Agricultura**
 
 [<img src="https://user-images.githubusercontent.com/57723790/68997504-1fc70d00-0886-11ea-8e3d-3eb1d24b69d2.jpg" alt="drawing" width="60"/>](https://www.agro.uba.ar/carreras/agronomia) 
 
 [Facultad de agronomía, Universidad de Buenos Aires, Argentina](https://www.agro.uba.ar/carreras/agronomia) <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>
 >Título de tesis: "Caracterización metabólica de las comunidades bacterianas de suelos bajo diferentes usos del noroeste argentino" [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVenglish/files/3854563/2011wassermanneliana.pdf) 
+
+Diploma [PDF <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://github.com/ElianaWassermann/CVspanish/blob/master/TituloIngAgr.pdf)
 
 
 ## **Cursos de graduados aprovados**
