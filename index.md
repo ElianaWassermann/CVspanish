@@ -45,7 +45,7 @@ Realicé el análisis de la diversidad molecular y de agresividad del agente cau
 
 <p align="center"> Número y tipo de publicaciones </p>
  
-<p align="center"> Barras azúles: publicaciones como primer autora; barras naranjas: publicaciones como colaboradora</p>
+<p align="center"> Barras azules: publicaciones como primer autora; barras naranjas: publicaciones como colaboradora</p>
 
 ### [<img src="https://user-images.githubusercontent.com/57723790/69009410-a7b72080-0933-11ea-8121-a513590fa685.jpg" alt="drawing" width="35" style="display: inline-block; margin: 2"/> Experiencia en educación <img src="https://user-images.githubusercontent.com/57723790/72172243-6f701380-33b3-11ea-98cd-886690c0a118.jpg" alt="drawing" width="15" style="display: inline-block; margin: 2"/>](https://elianawassermann.github.io/CVspanish/TeachingExperience)
 
