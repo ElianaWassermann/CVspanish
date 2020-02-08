@@ -6,7 +6,7 @@
 
 Vega D., **Wassermann E.**, Seoane M. B., Romero A. M. (in progress) Debris decomposition and temperature predict survival of *Clavibacter michiganensis* subsp. *michiganensis* in tomato residues. 
 
-**Wassermann, E**., Montecchia, M. S., Correa, O. S., Vega, D., & Romero, A. M. 2017, *Clavibacter michiganensis* subsp. *michiganensis* strains virulence and genetic diversity. A first study in Argentina. *European Journal of Plant Pathology*, 149(1), 35–42. https://doi.org/10.1007/s10658-017-1159-z
+**Wassermann, E**., Montecchia, M. S., Correa, O. S., Vega, D., & Romero, A. M. 2017, *Clavibacter michiganensis* subsp. *michiganensis* strains virulence and genetic diversity. A first study in Argentina. *European Journal of Plant Pathology*, 149(1), 35–42. [https://doi.org/10.1007/s10658-017-1159-z](https://doi.org/10.1007/s10658-017-1159-z)
 
 Patricia B. D.; Logegaray V.; Sorlino D.; **Wassermann E.**; Rositano F.; Moreira C. J. 2016, Sustentabilidad y Derechos Humanos: un abordaje desde las nuevas tecnologías de información y comunicación en la universidad. *Revista Electrónica de Didáctica en Educación Superior* 11. ISSN: 1853-3159. [PDF](http://ojs.cbc.uba.ar/index.php/redes/article/view/69)
 
