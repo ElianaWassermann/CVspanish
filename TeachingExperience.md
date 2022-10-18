@@ -26,9 +26,8 @@ Cursos:
 
 ●	Técnicas Microbiológicas Aplicadas al Estudio de los Agro-Ecosistemas
 
-[Derechos Humanos <img src="https://user-images.githubusercontent.com/57723790/72173711-ec50bc80-33b6-11ea-8044-010e3f23fe03.png" alt="drawing" width="10"/>](https://www.agro.uba.ar/GET/ddhh): 2010-2019
+●	Derechos Humanos : 2010-2019
 
-●	Derechos Humanos
 
 
 ### Dirección de tesinas y pasantes, 	2016-2017
