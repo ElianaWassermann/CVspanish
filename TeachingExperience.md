@@ -28,6 +28,7 @@ Cursos:
 
 ●	Derechos Humanos : 2010-2019
 
+Derechos Humanos
 
 
 ### Dirección de tesinas y pasantes, 	2016-2017
